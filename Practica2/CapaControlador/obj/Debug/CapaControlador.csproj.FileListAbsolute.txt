@@ -1,0 +1,9 @@
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\Practica2\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\Practica2\CapaControlador\bin\Debug\CapaControlador.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\Practica2\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\Practica2\CapaControlador\bin\Debug\CapaModelo.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\Practica2\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\Practica2\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\Practica2\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\Practica2\CapaControlador\obj\Debug\CapaControlador.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\Practica2\CapaControlador\obj\Debug\CapaControlador.pdb
