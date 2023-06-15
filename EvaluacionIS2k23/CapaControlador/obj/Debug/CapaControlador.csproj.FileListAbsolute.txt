@@ -1,0 +1,5 @@
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaControlador\bin\Debug\CapaControlador.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaControlador\obj\Debug\CapaControlador.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaControlador\obj\Debug\CapaControlador.pdb

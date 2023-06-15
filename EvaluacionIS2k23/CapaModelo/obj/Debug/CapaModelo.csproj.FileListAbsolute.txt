@@ -1,0 +1,6 @@
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaModelo\bin\Debug\CapaModelo.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaModelo\obj\Debug\CapaModelo.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaModelo\obj\Debug\CapaModelo.pdb

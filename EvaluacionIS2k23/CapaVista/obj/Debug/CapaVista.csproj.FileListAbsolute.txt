@@ -1,0 +1,9 @@
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaVista\bin\Debug\CapaVista.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaVista\bin\Debug\CapaVista.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaVista\obj\Debug\CapaVista.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaVista\obj\Debug\CapaVista.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaVista\bin\Debug\CapaControlador.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaVista\bin\Debug\CapaControlador.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Examen Final\Oficial\EvaluacionIS2k23\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
