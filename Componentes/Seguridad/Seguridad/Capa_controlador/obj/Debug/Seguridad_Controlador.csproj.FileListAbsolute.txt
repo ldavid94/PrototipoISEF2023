@@ -1,0 +1,10 @@
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Capa_controlador\bin\Debug\Seguridad_Controlador.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Capa_controlador\bin\Debug\Seguridad_Controlador.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Capa_controlador\bin\Debug\eCryptography.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Capa_controlador\bin\Debug\Modelo_Seguridad.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Capa_controlador\bin\Debug\Modelo_Seguridad.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.AssemblyReference.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Capa_controlador\obj\Debug\Seguridad_Controlador.csproj.CopyComplete
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Capa_controlador\obj\Debug\Seguridad_Controlador.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Seguridad\Seguridad\Capa_controlador\obj\Debug\Seguridad_Controlador.pdb

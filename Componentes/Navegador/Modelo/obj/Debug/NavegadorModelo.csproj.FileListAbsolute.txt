@@ -1,0 +1,8 @@
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Navegador\Modelo\bin\Debug\NavegadorModelo.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Navegador\Modelo\bin\Debug\NavegadorModelo.pdb
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Navegador\Modelo\bin\Debug\FontAwesome.Sharp.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.AssemblyReference.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CoreCompileInputs.cache
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.csproj.CopyComplete
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.dll
+D:\Luis David\UMG\1, 2023\Ingenieria en Software\Fase 2\02\proyectois2k23\Codigo\Componentes\Navegador\Modelo\obj\Debug\NavegadorModelo.pdb
